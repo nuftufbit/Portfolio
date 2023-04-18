@@ -1,0 +1,38 @@
+body{
+    background-color: lightblue;
+}
+
+.headercolour{
+    background-color: blue;
+    color: blue;
+}
+
+
+body{
+    background-color: #e6e6e6;
+  }
+  
+  .element{
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 5px;
+  }
+  
+  .element img {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 5px;
+    width: 80%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .fluid_container{
+    margin: auto;
+    padding: 30px;
+  }
